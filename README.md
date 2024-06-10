@@ -1,3 +1,11 @@
+![Screenshot_2.png](images/Screenshot.png)
+
+![Screenshot_3.png](images/Screenshot_2.png)
+![Screenshot_3.png](images/Screenshot_3.png)
+![Screenshot_4.png](images/Screenshot_4.png)
+
+
+
 # Project Overview
 The Penguin Species Prediction System is a machine learning application designed to predict the species of penguins based on specific input features. This project utilizes a supervised learning approach to classify penguin species accurately.
 
