@@ -14,6 +14,12 @@ Predicts penguin species based on multiple input features.
 Utilizes real-world datasets for training and validation.
 Easy-to-use interface for inputting data and viewing predictions.
 Scalable model adaptable to different datasets and features.
+
+![Project Screenshot](images/screenshot.png)
+![Project Screenshot](images/screenshot_2.png)
+![Project Screenshot](images/screenshot_3.png)
+![Project Screenshot](images/screenshot_4.png)
+
 Installation
 Clone the repository:
 bash
