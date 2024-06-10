@@ -1,9 +1,3 @@
-![Screenshot_2.png](images/Screenshot.png)
-
-![Screenshot_3.png](images/Screenshot_2.png)
-![Screenshot_3.png](images/Screenshot_3.png)
-![Screenshot_4.png](images/Screenshot_4.png)
-
 
 
 # Project Overview
@@ -23,10 +17,12 @@ Utilizes real-world datasets for training and validation.
 Easy-to-use interface for inputting data and viewing predictions.
 Scalable model adaptable to different datasets and features.
 
-![Project Screenshot](images/screenshot.png)
-![Project Screenshot](images/screenshot_2.png)
-![Project Screenshot](images/screenshot_3.png)
-![Project Screenshot](images/screenshot_4.png)
+![Screenshot_2.png](images/Screenshot.png)
+
+![Screenshot_3.png](images/Screenshot_2.png)
+![Screenshot_3.png](images/Screenshot_3.png)
+![Screenshot_4.png](images/Screenshot_4.png)
+
 
 Installation
 Clone the repository:
